@@ -1,7 +1,6 @@
 [submodule "RELATIONAL_DATABASE"]
-	path = SQL
+	path = RELATIONAL_DATABASE
 	url = https://github.com/Manisha-sharda-Prasad/RELATIONAL_DATABASE.git
 [submodule "python-projects"]
-	path = python-projects
-	url = https://github.com/Manisha-sharda-Prasad/python-projects.git
-
+	path = PYTHON
+	url = https://github.com/Manisha-sharda-Prasad/PYTHON_PROJECT.git
